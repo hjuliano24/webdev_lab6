@@ -36,11 +36,11 @@ strong{
   position: relative;
   left:50%;}
 
-#main-content{ 
+#content-wrapper{ 
   background-image: url("../images/repeating.png");
   float: left;}
 
-#header{
+#header,#page-wrapper{
   background-image: url("../images/black.jpg"); }
 
 #main-content{ 
