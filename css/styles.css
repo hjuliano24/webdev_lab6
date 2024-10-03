@@ -24,12 +24,12 @@ strong{
   margin-top: 40px;
   border-radius: 12px 12px 0px 0px;}
 
-{
+#footer{
   background-color: #777;
   height: 80px;
   clear: both;}
 
- { list-style-type: none;
+#main-nav{ list-style-type: none;
   margin: 0;
   padding: 0;
   float: left;
@@ -43,7 +43,7 @@ strong{
 #header{
   background-image: url("../images/black.jpg"); }
 
-#side-content{ 
+#main-content{ 
   min-height: 300px;
   width: 715px;
   margin-right: 30px;
@@ -62,11 +62,11 @@ h2 strong{
   background-color: white;
   margin: 10px 0 10px 20px;}
 
-{ min-height: 150px;
+#side-content{ min-height: 150px;
   width: 200px;
   float: left;}
 
-#footer{ float: left;
+{ float: left;
   width: 100%;
   background-color: #333;}
 
